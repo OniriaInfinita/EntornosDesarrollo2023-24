@@ -12,6 +12,8 @@ Leandro
 
 ## Daniel Silva y (Jacob Davis cuando mande su pullrequest él desde su cuenta)
 
+Jacob Davis
+
 Ruth
 
 Alumno : Marcelo (pues es el usuario de GIthub, no Gonzalo como indicaba) 
