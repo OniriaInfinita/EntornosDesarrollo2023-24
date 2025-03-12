@@ -20,8 +20,10 @@
 
 7 - git status (aparece en rojo este fichero)
 
-8 - git add . (new file, aparece en verde)
+8 - git add . 
 
-9 - git commit -m "primer archivo repositorios"
+9 - git status (new file, aparece en verde)
 
-10 - git push ( no basta, pide token. lo explicamos en otro txt
+10 - git commit -m "primer archivo repositorios"
+
+11 - git push ( no basta, pide token. lo explicamos en otro txt
