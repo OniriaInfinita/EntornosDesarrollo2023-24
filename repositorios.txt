@@ -1,3 +1,6 @@
+
+COMO CREAR REPOSITORIOS
+
 1- Desde Home - New  - crear repositorio
    (lo crea vacio , lo podemos inicializar con un archivo Readme)
    Ponerle un nombre
