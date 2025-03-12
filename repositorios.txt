@@ -1,0 +1,27 @@
+1- Desde Home - New  - crear repositorio
+   (lo crea vacio , lo podemos inicializar con un archivo Readme)
+   Ponerle un nombre
+
+2- Clonado. En Github copiamos el codigo del nuevo repositorio
+	y lo copiamos en git bash con este comando:
+	git clone "pegar http"
+	Se crea un repositorio clonado en la carpeta donde estamos
+
+3 - Entrar en el repositorio: cd nombre repositorio
+	Aparece que estás en main
+
+4 - git status (lo confirma) nothing to commit
+
+5 - git remove -v (ya tenemos remoto establecido)
+
+6 - Publicar cambios (lo que estamos haciendo ahora)
+	 nano nombrefichero.txt
+	(repositorios.txt)
+
+7 - git status (aparece en rojo este fichero)
+
+8 - git add . (new file, aparece en verde)
+
+9 - git commit -m "primer archivo repositorios"
+
+10 - git push ( no basta, pide token. lo explicamos en otro txt
